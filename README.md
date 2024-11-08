@@ -6,8 +6,7 @@ Este é um README simples para a aplicação web de correspondência. A aplicaç
 
 - Python 3.7 ou superior
 - Flask
-- Banco de dados (não especificado no código, você precisa configurar um banco de dados para armazenar os dados de usuário e correspondência)
-
+  
 ## Instalação
 
 1. Clone o repositório:
